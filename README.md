@@ -28,101 +28,84 @@
 - Need for modern, engaging approaches to preserve cultural traditions
 
 **Institution:** Universiti Kebangsaan Malaysia (UKM)  
-**Supervisor:** Dr. Fadhilah binti Rosdi  
-**Full Technical Report:** [View on UKM Repository](https://ftsm.ukm.my/v6/public/assets/file/technicalreport/A197448_TReport.pdf)
+**Supervisor:** Dr. Fadhilah binti Rosdi
 
 ---
 
-## ✨ Features
+## Features
 
-- 🏘️ **Virtual Village Exploration** - Freely explore a 3D traditional Malay village in Hari Raya atmosphere
-- 🎮 **Cultural Quiz Module** - Test knowledge on Hari Raya traditions, customs, and practices
-- 👗 **Traditional Dress Matching** - Interactive games matching Baju Melayu and Baju Kurung components
-- 🏠 **Cultural Object Interaction** - Discover traditional items (ketupat, lemang, pelita) with detailed information
-- 🎯 **Reward System** - Unlock achievements and digital rewards for completing activities
-- 🕌 **Authentic Architecture** - 3D modeled traditional Malay mosque and kampung structures
-- 🎨 **Cultural Aesthetics** - UI design incorporating bunga raya, songket, and batik patterns
-- 🔊 **Immersive Audio** - Ambient sounds (roosters, wind, children's voices) for authentic atmosphere
+- **Virtual Village Exploration** - Freely explore a 3D traditional Malay village in Hari Raya atmosphere
+- **Cultural Quiz Module** - Test knowledge on Hari Raya traditions, customs, and practices
+- **Traditional Dress Matching** - Interactive games matching Baju Melayu and Baju Kurung components
+- **Cultural Object Interaction** - Discover traditional items (ketupat, lemang, pelita) with detailed information
+- **Reward System** - Unlock achievements and digital rewards for completing activities
+- **Authentic Architecture** - 3D modeled traditional Malay mosque and kampung structures
+- **Cultural Aesthetics** - UI design incorporating bunga raya, songket, and batik patterns
+- **Immersive Audio** - Ambient sounds (roosters, wind, children's voices) for authentic atmosphere
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Engine & Framework:**
+**Engine & Framework**
 - Unity 3D (2022.3+)
 - C# 11
 
-**Key Technologies:**
+**Key Technologies**
 - Universal Render Pipeline (URP)
 - Addressable Asset System
 - Input System (New)
 - Timeline/Animation System
 - TextMesh Pro
 
-**Tools & External Assets:**
-- Visual Studio Code / JetBrains Rider
-- [Asset Store packages used]
-- [Any 3D modeling tools - Blender, Maya, etc.]
-
-**Version Control:**
-- Git & GitHub
+**Tools**
+- Visual Studio for C# development
+- Blender for 3D modeling
+- Git for version control
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
-- **Unity 2022.3** or higher ([Download](https://unity.com/download))
-- **Git** for version control
-- **System Requirements:**
-  - Windows 10+ / macOS 10.13+ / Linux
-  - 4GB RAM minimum
-  - GPU with OpenGL 4.1+ support
+- Unity 2022.3 or higher
+- Git for version control
+- 4GB RAM minimum
+- GPU with OpenGL 4.1+ support
 
 ### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/lebaran-fyp-unity-3d.git
-   cd lebaran-fyp-unity-3d
-   ```
-
-2. **Open in Unity:**
-   - Launch Unity Hub
-   - Click "Add" → Select the cloned folder
-   - Open the project with Unity 2022.3+
-
-3. **Install Dependencies:**
-   ```bash
-   # If using any external packages via NuGet or similar
-   dotnet restore
-   ```
-
-4. **Play the Scene:**
-   - Open `Assets/Scenes/MainScene.unity`
-   - Press Play (Ctrl/Cmd + P) in the Unity Editor
-
-### Building for Different Platforms
-
-**Windows:**
+1. Clone the repository:
 ```bash
-File → Build Settings → Select PC, Mac & Linux Standalone → Build
+git clone https://github.com/zuftt/lebaran-fyp-unity-3d.git
+cd lebaran-fyp-unity-3d
 ```
 
-**WebGL:**
-```bash
+2. Open in Unity:
+- Launch Unity Hub
+- Click "Add" and select the cloned folder
+- Open with Unity 2022.3+
+
+3. Play the application:
+- Open `Assets/Scenes/MainScene.unity`
+- Press Play in the Unity Editor
+
+### Building
+
+Windows/Mac/Linux:
+```
+File → Build Settings → Select Platform → Build
+```
+
+WebGL:
+```
 File → Build Settings → Select WebGL → Build
-```
-
-**Mobile (Android/iOS):**
-```bash
-File → Build Settings → Select Android/iOS → Build
 ```
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Assets/
@@ -148,7 +131,7 @@ Assets/
 
 ---
 
-## 🎮 Gameplay Modules
+## Gameplay Modules
 
 ### 1. Kampung Exploration (Village Exploration)
 - **Objective:** Freely explore a 3D traditional Malay village during Hari Raya morning
@@ -184,7 +167,7 @@ Assets/
 
 ---
 
-## 📊 Testing Results
+## Testing Results
 
 **User Testing conducted with 30 respondents**
 
@@ -217,7 +200,7 @@ Assets/
 
 ---
 
-## 🛠️ Development Details
+## Development Details
 
 ### Methodology
 - **Approach:** Agile Development with iterative cycles
@@ -237,7 +220,7 @@ Assets/
 
 ---
 
-## 🎯 Project Objectives & Outcomes
+## Project Objectives & Outcomes
 
 ### Objectives Met
 ✅ Developed a functional game-based learning application for cultural education  
@@ -262,7 +245,7 @@ Assets/
 
 ---
 
-## 📝 Citation
+## Citation
 
 If you reference this project in academic work:
 
@@ -280,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
+## Author
 
 **Muhammad Zafri bin Shaifull Naim**
 - 📧 Email: muhdzafri2015@gmail.com
@@ -291,10 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 References & Resources
-
-### Full Technical Report
-📄 **[Complete FYP Technical Report (PDF)](https://ftsm.ukm.my/v6/public/assets/file/technicalreport/A197448_TReport.pdf)** - Full project documentation including methodology, implementation details, testing results, and conclusions (A197448_TReport.pdf)
+## References & Resources
 
 ### Academic References
 - Adipat, S., et al. (2021). Game-based learning in preserving cultural heritage. *International Journal of Emerging Technologies in Learning*, 16(9), 64-76.
@@ -309,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Supervisor:** Dr. Fadhilah binti Rosdi for guidance and feedback
 - **Institution:** Universiti Kebangsaan Malaysia (UKM) Faculty of Technology & Information Sciences
@@ -319,64 +299,39 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🖼️ Adding Screenshots
+## Gallery
 
-To add images from your PDF report to this README:
+### Application Interface
 
-### Step 1: Extract Images from PDF
-**Option A - Using macOS Preview (Easiest):**
-1. Open `A197448_TReport.pdf` in Preview
-2. Use Tools → Images to select images
-3. Save them to `Assets/Screenshots/` folder
+![Main Menu](Assets/Screenshots/01_main_menu.png)
+Main menu screen with navigation
 
-**Option B - Using Online Tools:**
-- Go to [ilovepdf.com](https://ilovepdf.com) or similar PDF tools
-- Upload your PDF
-- Download extracted images
+![Player Input](Assets/Screenshots/02_player_input.png)
+Player name registration screen
 
-**Option C - Using Python (if you have it):**
-```bash
-pip install pdf2image
-# Then use scripts to extract pages as images
-```
+![Quiz Game](Assets/Screenshots/03_quiz_interface.png)
+Cultural quiz module for testing knowledge
 
-### Step 2: Organize Screenshots
-Create folder structure:
-```
-Assets/
-├── Screenshots/
-│   ├── 01_main_menu.png
-│   ├── 02_village_exploration.png
-│   ├── 03_quiz_game.png
-│   ├── 04_dress_matching.png
-│   └── 05_rewards.png
-```
+![Rewards Module](Assets/Screenshots/04_rewards.png)
+Achievement and rewards tracking system
 
-### Step 3: Add to README
-Replace the screenshot section with:
-```markdown
-### Main Menu
-![Main Interface](Assets/Screenshots/01_main_menu.png)
+### Development Environment
 
-### Village Exploration
-![3D Village](Assets/Screenshots/02_village_exploration.png)
+![Unity Editor](Assets/Screenshots/06_unity_editor.png)
+Unity 3D game engine environment used for development
 
-### Cultural Quiz Game
-![Quiz Interface](Assets/Screenshots/03_quiz_game.png)
+![Blender Modeling](Assets/Screenshots/05_blender_modeling.png)
+3D asset creation in Blender for village and character models
 
-### Traditional Dress Matching
-![Dress Matching](Assets/Screenshots/04_dress_matching.png)
-
-### Achievement Rewards
-![Rewards Module](Assets/Screenshots/05_rewards.png)
-```
+![Main Interface](Assets/Screenshots/07_main_interface.png)
+Application main interface and controls
 
 ---
 
 <div align="center">
 
-Made with ❤️ for cultural preservation
+Made for cultural preservation
 
-[⬆ Back to Top](#lebaran---game-based-learning-application)
+[Back to Top](#lebaran---game-based-learning-application)
 
 </div>
