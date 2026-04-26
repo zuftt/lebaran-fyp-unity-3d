@@ -16,9 +16,11 @@
 
 </div>
 
+![](Assets/Screenshots/02_player_input.png)
+
 ---
 
-## 📋 About
+## About
 
 **LEBARAN** is a **Final Year Project** that develops an interactive digital learning application for exploring traditional Hari Raya Aidilfitri customs and traditions in Malaysia. The project combines **Game-Based Learning (GBL)** principles with 3D game development to create an engaging educational experience about Malaysian cultural heritage.
 
@@ -65,6 +67,14 @@
 
 ---
 
+## Gallery
+
+| | | |
+|---|---|---|
+| ![](Assets/Screenshots/01_main_menu.png) | ![](Assets/Screenshots/03_quiz_interface.png) | ![](Assets/Screenshots/04_rewards.png) |
+| ![](Assets/Screenshots/05_blender_modeling.png) | ![](Assets/Screenshots/06_unity_editor.png) | ![](Assets/Screenshots/07_main_interface.png) |
+
+---
 
 ## Gameplay Modules
 
@@ -231,19 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Testing Participants:** 30 volunteers who participated in usability testing
 - **References:** Literature on Game-Based Learning, cultural heritage preservation, and digital storytelling
 - **Assets:** 3D models created using Blender; UI elements designed with cultural authenticity in mind
-
----
-
-## Gallery
-
-![](Assets/Screenshots/02_player_input.png)
-
-| | | |
-|---|---|---|
-| ![](Assets/Screenshots/01_main_menu.png) | ![](Assets/Screenshots/03_quiz_interface.png) | ![](Assets/Screenshots/04_rewards.png) |
-| ![](Assets/Screenshots/05_blender_modeling.png) | ![](Assets/Screenshots/06_unity_editor.png) | ![](Assets/Screenshots/07_main_interface.png) |
-
----
 
 <div align="center">
 
