@@ -2,6 +2,8 @@
 
 <div align="center">
 
+## [View Full Technical Report](https://ftsm.ukm.my/v6/public/assets/file/technicalreport/A197448_TReport.pdf)
+
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-blue?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-11-239120?logo=csharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender&logoColor=white)
@@ -12,7 +14,7 @@
 
 **FYP Project** | Faculty of Technology & Information Sciences | Universiti Kebangsaan Malaysia
 
-[Features](#features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Testing Results](#testing-results) • [Gallery](#gallery)
+[Features](#features) • [Tech Stack](#tech-stack) • [Testing Results](#testing-results) • [Gallery](#gallery)
 
 </div>
 
