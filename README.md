@@ -28,7 +28,8 @@
 - Need for modern, engaging approaches to preserve cultural traditions
 
 **Institution:** Universiti Kebangsaan Malaysia (UKM)  
-**Supervisor:** Dr. Fadhilah binti Rosdi
+**Supervisor:** Dr. Fadhilah binti Rosdi  
+**Full Technical Report:** [View on UKM Repository](https://ftsm.ukm.my/v6/public/assets/file/technicalreport/A197448_TReport.pdf)
 
 ---
 
@@ -291,6 +292,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📚 References & Resources
+
+### Full Technical Report
+📄 **[Complete FYP Technical Report (PDF)](https://ftsm.ukm.my/v6/public/assets/file/technicalreport/A197448_TReport.pdf)** - Full project documentation including methodology, implementation details, testing results, and conclusions (A197448_TReport.pdf)
 
 ### Academic References
 - Adipat, S., et al. (2021). Game-based learning in preserving cultural heritage. *International Journal of Emerging Technologies in Learning*, 16(9), 64-76.
