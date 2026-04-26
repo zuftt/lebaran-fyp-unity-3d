@@ -65,45 +65,6 @@
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Unity 2022.3 or higher
-- Git for version control
-- 4GB RAM minimum
-- GPU with OpenGL 4.1+ support
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/zuftt/lebaran-fyp-unity-3d.git
-cd lebaran-fyp-unity-3d
-```
-
-2. Open in Unity:
-- Launch Unity Hub
-- Click "Add" and select the cloned folder
-- Open with Unity 2022.3+
-
-3. Play the application:
-- Open `Assets/Scenes/MainScene.unity`
-- Press Play in the Unity Editor
-
-### Building
-
-Windows/Mac/Linux:
-```
-File → Build Settings → Select Platform → Build
-```
-
-WebGL:
-```
-File → Build Settings → Select WebGL → Build
-```
-
----
 
 ## Project Structure
 
