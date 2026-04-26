@@ -301,30 +301,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Gallery
 
-### Application Interface
+![](Assets/Screenshots/02_player_input.png)
 
-![Main Menu](Assets/Screenshots/01_main_menu.png)
-Main menu screen with navigation
-
-![Player Input](Assets/Screenshots/02_player_input.png)
-Player name registration screen
-
-![Quiz Game](Assets/Screenshots/03_quiz_interface.png)
-Cultural quiz module for testing knowledge
-
-![Rewards Module](Assets/Screenshots/04_rewards.png)
-Achievement and rewards tracking system
-
-### Development Environment
-
-![Unity Editor](Assets/Screenshots/06_unity_editor.png)
-Unity 3D game engine environment used for development
-
-![Blender Modeling](Assets/Screenshots/05_blender_modeling.png)
-3D asset creation in Blender for village and character models
-
-![Main Interface](Assets/Screenshots/07_main_interface.png)
-Application main interface and controls
+| | | |
+|---|---|---|
+| ![](Assets/Screenshots/01_main_menu.png) | ![](Assets/Screenshots/03_quiz_interface.png) | ![](Assets/Screenshots/04_rewards.png) |
+| ![](Assets/Screenshots/05_blender_modeling.png) | ![](Assets/Screenshots/06_unity_editor.png) | ![](Assets/Screenshots/07_main_interface.png) |
 
 ---
 
