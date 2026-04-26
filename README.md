@@ -66,32 +66,6 @@
 ---
 
 
-## Project Structure
-
-```
-Assets/
-├── Scenes/              # Game scenes
-│   ├── MainScene.unity
-│   ├── MainMenu.unity
-│   └── Credits.unity
-├── Scripts/             # C# scripts
-│   ├── Core/           # Core gameplay logic
-│   ├── UI/             # UI controllers
-│   ├── Camera/         # Camera systems
-│   └── Managers/       # Game managers
-├── Models/             # 3D models & meshes
-├── Textures/           # Texture assets
-├── Materials/          # Material definitions
-├── Prefabs/            # Reusable game objects
-├── Audio/              # Music & sound effects
-│   ├── Music/
-│   └── SFX/
-├── UI/                 # UI panels & layouts
-└── Resources/          # Runtime loadable assets
-```
-
----
-
 ## Gameplay Modules
 
 ### 1. Kampung Exploration (Village Exploration)
